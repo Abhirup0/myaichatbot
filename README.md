@@ -4,6 +4,7 @@
 
 ### *Your Intelligent Conversation Companion*
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-FF6B6B?style=for-the-badge)](https://abhirupchatbot.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-15.3.4-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.0.0-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
@@ -13,6 +14,8 @@
 ---
 
 *A sophisticated, modern AI chatbot powered by Google Gemini 2.0 Flash, featuring a stunning dark/light theme interface, intelligent file processing, and seamless conversation management.*
+
+### 🌐 **[Try it Live →](https://abhirupchatbot.vercel.app/)**
 
 </div>
 
@@ -85,6 +88,9 @@ npm run dev
 
 🎉 **Open [http://localhost:3000](http://localhost:3000)** to see the magic!
 
+### 🌍 **Live Demo**
+Experience the chatbot live at: **[https://abhirupchatbot.vercel.app/](https://abhirupchatbot.vercel.app/)**
+
 ---
 
 ## 📁 **Project Structure**
@@ -149,6 +155,21 @@ const welcomeMessage = "Hello! I'm your AI assistant...";
 
 </details>
 
+---
+
+## 📸 **Screenshots**
+
+<div align="center">
+
+### 🌙 Dark Mode
+![Dark Mode](https://via.placeholder.com/600x400/1a1a1a/ffffff?text=Dark+Mode+Preview)
+
+### ☀️ Light Mode  
+![Light Mode](https://via.placeholder.com/600x400/ffffff/000000?text=Light+Mode+Preview)
+
+</div>
+
+---
 
 ## 🤝 **Contributing**
 
