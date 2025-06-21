@@ -155,21 +155,7 @@ const welcomeMessage = "Hello! I'm your AI assistant...";
 
 </details>
 
----
 
-## 📸 **Screenshots**
-
-<div align="center">
-
-### 🌙 Dark Mode
-![Dark Mode](https://via.placeholder.com/600x400/1a1a1a/ffffff?text=Dark+Mode+Preview)
-
-### ☀️ Light Mode  
-![Light Mode](https://via.placeholder.com/600x400/ffffff/000000?text=Light+Mode+Preview)
-
-</div>
-
----
 
 ## 🤝 **Contributing**
 
