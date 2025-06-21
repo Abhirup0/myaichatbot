@@ -77,7 +77,7 @@ declare global {
 }
 
 // Google Gemini API configuration
-const GEMINI_API_KEY = 'AIzaSyD1W5tjlpNRxp4eYQXSp5Sk1frH1tYUx4I';
+const GEMINI_API_KEY = '';
 const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}`;
 
 const ChatbotUI: React.FC = () => {
